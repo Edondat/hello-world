@@ -1,5 +1,4 @@
 # hello-world
-Random stuff
 
 Hi People!
 
